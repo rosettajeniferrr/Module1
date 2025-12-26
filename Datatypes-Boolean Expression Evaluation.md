@@ -26,9 +26,7 @@ print("c:",c)
 print("d:",d)
 ```
 ## Output
-```
-<img width="338" height="242" alt="2" src="https://github.com/user-attachments/assets/1896c37d-8c6e-4d10-bf8e-0f843e3e8cb1" />
 
-```
+<img width="338" height="242" alt="2" src="https://github.com/user-attachments/assets/1896c37d-8c6e-4d10-bf8e-0f843e3e8cb1" />
 ## Result
 Thus,the program is executed successfully
